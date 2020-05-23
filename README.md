@@ -1,2 +1,2 @@
 # testRepo
-2 PR
+1 PR
